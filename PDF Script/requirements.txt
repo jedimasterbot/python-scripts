@@ -1,0 +1,5 @@
+py==1.8.1
+pyparsing==2.4.6
+PyPDF2==1.26.0
+img2pdf==0.4.0
+Pillow==8.1.0
