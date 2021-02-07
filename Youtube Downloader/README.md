@@ -3,10 +3,10 @@ The python script can download both video and audio files from YouTube
 
 What the program does?
 - Download video,audio files from YouTube
-- Accepts multiple URLs at the same time
+- Accepts multiple URL(s) at the same time
 - Can specify where to store the files
 - Can download videos in there the highest resolution available
-- Saves audio files in .mp3 format
+- Saves audio files in ".mp3" format
 
 ### Requirements
 Python3

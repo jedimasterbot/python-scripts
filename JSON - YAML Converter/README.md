@@ -5,7 +5,7 @@ What the program does?
 - Can accepts single, multiple files
 - Convert JSON to YAML
 - Convert YAML to JSON
-- Single Operation at a time
+- Single operation at a time
 
 ### Requirements
 > Python3

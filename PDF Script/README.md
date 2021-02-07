@@ -7,8 +7,8 @@ What the program does?
 
 - Merging creates a new PDF with all PDF files
 - Encrypts the file with password provided
-- Can convert IMAGE to PDF and can also merge with PDF files
-- Conversion of Single IMAGE to PDF and Multiple IMAGES to Multiple PDF file
+- Can convert image to PDF and can also merge with PDF files
+- Conversion of "Single IMAGE" to PDF and "Multiple IMAGES" to Multiple PDF file
 
 
 ### Requirements
