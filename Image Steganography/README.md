@@ -8,7 +8,8 @@ What the program does?
 
 
 ### Requirements
-Python3.6+
+>Python3.6+
+> 
 > pip install -r requirements.txt
 
 
@@ -20,7 +21,7 @@ STEGANOGRAPHY IN IMAGES
 
 optional arguments:
   -h, --help            show this help message and exit
-  -f FILES [FILES ...]  Image File
+  -f FILES [FILES ...]  Image File(s)
   -e ENCODE             Encode The Text In Image
   -d                    Decode The Text In Image
 

@@ -6,7 +6,7 @@ import stepic
 
 
 def encode(file, text):
-    # Open Image or file in which you want to hide your data
+    # Open image or file in which you want to hide your data
     image = Image.open(file)
 
     # Convert the string to bytes
@@ -26,7 +26,7 @@ def encode(file, text):
 
 
 def decode(path):
-    # Open Image or file in which data exists
+    # Open image or file in which data exists
     image = Image.open(path)
 
     # Decode the image to extract the text
@@ -39,8 +39,8 @@ def decode(path):
 def main():
     parser = argparse.ArgumentParser(description='STEGANOGRAPHY IN IMAGES')
 
-    # Argument is for images to encode/decode
-    parser.add_argument('-f', dest='files', nargs='+', type=str, help='Image File', required=True)
+    # Argument is for image(s) to encode/decode
+    parser.add_argument('-f', dest='files', nargs='+', type=str, help='Image File(s)', required=True)
 
     # Argument is to encode in the image
     parser.add_argument('-e', dest='encode', type=str, help='Encode The Text In Image')
