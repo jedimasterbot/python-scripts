@@ -1,5 +1,5 @@
-# GeT Links From Webpage
-The python script gets all th links from the webpage
+# Get Links From Webpage
+The python script gets all the links from the webpage
 
 What the program does?
 - Takes single URL as input at the same time
