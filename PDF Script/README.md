@@ -1,4 +1,9 @@
 # PDF Script
+[![forthebadge](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-water.svg)](https://forthebadge.com)
+
 The python script can encrypt a single,multiple files. 
 Merge multiple files together and encrypt the merged file as well.
 Convert image(s) to PDF as well along with encryption if wanted.
@@ -12,7 +17,8 @@ What the program does?
 
 
 ### Requirements
-Python3
+> Python3
+> 
 > pip install -r requirements.txt
 
 ### Usage

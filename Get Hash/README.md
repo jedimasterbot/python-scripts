@@ -1,4 +1,9 @@
 # Generate Hash And File Type
+[![forthebadge](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-water.svg)](https://forthebadge.com)
+
 The python script generates the 
 hash (MD5, SHA1, SHA256, SHA512, CRC32, ADLER32) of the 
 file(s). Also, the file type of the file(s)

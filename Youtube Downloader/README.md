@@ -1,4 +1,9 @@
 # YouTube Download Script
+[![forthebadge](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-water.svg)](https://forthebadge.com)
+
 The python script can download both video and audio files from YouTube
 
 What the program does?
@@ -9,7 +14,8 @@ What the program does?
 - Saves audio files in ".mp3" format
 
 ### Requirements
-Python3
+> Python3
+> 
 > pip install -r requirements.txt
 
 ### Usage

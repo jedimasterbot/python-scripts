@@ -1,4 +1,9 @@
 # Password Generator Script
+[![forthebadge](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-water.svg)](https://forthebadge.com)
+
 The python script can generate a password using ASCII, Digits and Special Characters of desired length.
 
 What the program does?
@@ -8,7 +13,7 @@ What the program does?
 
 
 ### Requirements
-Python3.6+
+> Python3.6+
 
 
 ### Usage
